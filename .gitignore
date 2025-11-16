@@ -1,0 +1,22 @@
+# OS / editor junk
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Large / private data
+data/
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.db
+*.gpickle
+*.pkl
+*.pickle
+*.gz
+*.zip
+
+# Jupyter junk
+*.log
